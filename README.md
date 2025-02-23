@@ -1,6 +1,6 @@
-# Linear Regression.
+# Linear Regression Algorithm
 
-A simple linear regression written in python.
+A simple linear regression algorithm written in python :3 .
 
 It is simple to run, first install dependencies
 ```
